@@ -1,1 +1,1 @@
-[{"codigo":1,"descripcion":"papas","precio":0},{"codigo":2,"descripcion":"fresas","precio":0}]
+[{"codigo":1,"descripcion":"papas","precio":0},{"codigo":2,"descripcion":"fresas","precio":0},{"codigo":3,"descripcion":"manzanas","precio":0}]
