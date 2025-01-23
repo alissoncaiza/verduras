@@ -14,4 +14,10 @@
     "descripcion": "sandia",
     "precio": 31
   }
+
+{
+    "codigo": 4,
+    "descripcion": "Fresas",
+    "precio": 5
+  }
 ]
